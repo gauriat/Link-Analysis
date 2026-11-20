@@ -185,9 +185,11 @@ Each analysis logs one line, which is the source of the measured numbers below:
 analyzed url=<url> model=<model> pages=<n> context_chars=<n> in_tokens=<n> out_tokens=<n> attempts=<n> elapsed_ms=<n>
 ```
 
-[Swagger success](docs/screenshots/swagger-1.png)
-[Swagger success](docs/screenshots/swagger-1.png)
-[Swagger success](docs/screenshots/swagger-1.png)
+[Swagger Image1](docs/screenshots/swagger-1.png)
+
+[Swagger Image2](docs/screenshots/swagger-1.png)
+
+[Swagger Image2](docs/screenshots/swagger-1.png)
 
 ---
 
